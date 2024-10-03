@@ -119,10 +119,6 @@ API основного сервиса разделена на три части:
 ## Спецификации
 - [основной сервис](./ewm-main-service-spec.json)
 - [сервис статистики](./ewm-stats-service-spec.json)
-### Инструкция к Postman тестам
-- тесты [feature](./postman/feature.json) актуально запускать локально после тестов основного сервиса, так же как на GitHub
-- тесты [feature_to_start_without_main_service_tests](./postman/feature_to_start_without_main_service_tests.json) 
-проходят, если база данных приложения чистая
 ## Последние изменения
 ### ADD RATINGS
 #### ссылка на Pull Request:
